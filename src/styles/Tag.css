@@ -1,0 +1,19 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    box-sizing: border-box;
+}
+
+.tagContainer{
+    display: flex;
+    margin-top: -10px;
+}
+
+.tagName{
+    width: auto;
+    padding: 2px 5px;
+    height: 25px;
+    border-radius: 10px;
+    color: white;
+    background-color: #ff6060;
+}
